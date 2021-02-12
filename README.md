@@ -1,4 +1,5 @@
 ### Hi there, I'm Honza - aka Honza1337 👋
+[![HitCount](http://hits.dwyl.com/honza1337/honza1337.svg)](http://hits.dwyl.com/honza1337/honza1337)
 
 -  I’m currently learning everything
 -  2021 Goals: Learn more languages
