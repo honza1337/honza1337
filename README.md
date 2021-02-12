@@ -1,9 +1,9 @@
 ### Hi there, I'm Honza - aka Honza1337 👋
 
--  I’m currently learning everything 🤣
--  2021 Goals: Learn more languages 🤣
+-  I’m currently learning everything
+-  2021 Goals: Learn more languages
 
-### Spotify Playing (workingonit)🎧
+### Spotify Playing 🎧
 
 <br />
 
