@@ -1,4 +1,4 @@
-### Hi there, I'm Honza - aka [Honza1337][website] 👋
+### Hi there, I'm Honza - aka Honza1337 👋
 
 ## Something about me..
 
@@ -7,7 +7,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Honza1337 Spotify Playing" width="350" />](https://open.spotify.com/user/64cot254qugdgcxqw6rz9jj6x?si=GYB1mjyYQzG_ZAQJ0rHrHw)
 
 
 <br />
