@@ -1,7 +1,5 @@
 ### Hi there, I'm Honza - aka Honza1337 👋
 
-## Something about me..
-
 -  I’m currently learning everything 🤣
 -  2021 Goals: Learn more languages 🤣
 
